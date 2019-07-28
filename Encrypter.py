@@ -2,8 +2,11 @@
 # used: https://stackoverflow.com/a/20868265
 # additionally: https://pypi.org/project/pyAesCrypt/
 #
+import os
+
 from Crypto import Random
 from Crypto.Cipher import AES
+
 
 def pad(s):
     return s + b"\0" * (AES.block_size - len(s) % AES.block_size)
@@ -39,7 +42,10 @@ def decrypt_file(file_name, key):
         fo.write(dec)
 
 
-key = b'\xbf\xc0\x85)\x10nc\x94\x02)j\xdf\xcb\xc4\x94\x9d(\x9e[EX\xc8\xd5\xbfI{\xa2$\x05(\xd5\x18'
+# key = b'\xbf\xc0\x85)\x10nc\x94\x02)j\xdf\xcb\xc4\x94\x9d(\x9e[EX\xc8\xd5\xbfI{\xa2$\x05(\xd5\x18'
+key = os.urandom(32)
+
+
 
 encrypt_file('to_enc.txt', key)
-#decrypt_file('to_enc.txt.enc', key)
+decrypt_file('to_enc.txt.enc', key)
