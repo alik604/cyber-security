@@ -21,3 +21,5 @@
 2. [chromePasswordThieve](https://github.com/alik604/chromePasswordThieve)
 - grab passwords saved in chrome and email them out 
 - [Blog post](https://alik604.github.io/chromePasswordThieve/index.html)
+3. [bandwidth-hog](https://github.com/alik604/bandwidth-hog)
+- Download a file many times, but do not save the data. Useful for stressing out a network... possibly your own
