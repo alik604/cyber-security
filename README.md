@@ -2,10 +2,24 @@
 > cyberSec stuff 
 
 ## Projects Here 
-* Dos script
-* File (de)Encrption - boilerplate code for my latter use 
-* Simple keylogger 
-* unExpectedProcessChecker - outputs the mutually exclusive set of processes, given set A, which is hardcoded, and set B, which is from the windows environment being run on
+
+* Anomaly Detection (Network Intrusion Detection) 
+
+  * KDD cup ‘99
+  * NSL-DKK (corrected dataset based off KDD cup ‘99’)
+  * UNSW_NB15 
+
+* Anomaly Detection (Finance)
+
+* > This might be be ‘Cyber Security’, but it is Time Series Anomaly Detection 
+
+  - SPX 500 - pointing oddities from the past  
+
+* Utilities 
+  * Dos script
+  * File (de)Encrption - boilerplate code for my latter use 
+  * Simple keylogger 
+  * unExpectedProcessChecker - outputs the mutually exclusive set of processes, given set A, which is hardcoded, and set B, which is from the windows environment being run on
 
 
 
