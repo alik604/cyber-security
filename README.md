@@ -17,10 +17,9 @@
       + 91% Accuracy with **feedforward nerual network**,92% with **Ensemble** (non nerual network techniques 'voting') 
       + [attempt at autoencoder of amonaly detection](https://colab.research.google.com/drive/15L29IKGf-7JEvcSIC4FeOEcps5_Jn8hD) 
 
-* Anomaly Detection (Finance)
-> > This might not be ‘Cyber Security’, but it is _Time Series Anomaly Detection_ 
-  - SPX 500 - pointing out oddities from the past  
-
+  * Anomaly Detection (Finance)
+      + SPX 500 - pointing out oddities from the past
+        + Some argue the stock market is a random signel, which tends to have a positive trent in the *long run*. So, I tried Anomaly Detection on it   
 * Utilities 
   * Dos script
   * File (de)Encrption - boilerplate code for my latter use 
@@ -34,10 +33,10 @@
 1. [myPybackdoor](https://github.com/alik604/myPybackdoor)
     - Navigrate Directories 
     - Download, Create, and Delete Files
-    - custom CMD command
+    - Custom CMD command
     - Get wifi Password list
 2. [chromePasswordThieve](https://github.com/alik604/chromePasswordThieve)
-    - grab passwords saved in chrome and email them out 
+    - Grab passwords saved in chrome and email them out 
     - [Blog post](https://alik604.github.io/chromePasswordThieve/index.html)
 3. [bandwidth-hog](https://github.com/alik604/bandwidth-hog)
     - Download a file many times, but do not save the data. Useful for stressing out a network... possibly your own
