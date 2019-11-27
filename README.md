@@ -6,7 +6,7 @@
 * Anomaly Detection (Network Intrusion Detection) 
 
   * KDD cup ‘99
-   + [Blog post](https://medium.com/@alik604/predicting-the-nsl-kdd-data-set-with-98-accuracy-240a7a245c9d) 
+    + [Blog post](https://medium.com/@alik604/predicting-the-nsl-kdd-data-set-with-98-accuracy-240a7a245c9d) 
   * NSL-DKK (corrected dataset based off KDD cup ‘99’)
    + [Affects of Dimensionality Reduction](https://github.com/alik604/dimensionality-reduction-overview) 
      +  [Blog post](https://medium.com/@alik604/dimensionality-reduction-effects-on-model-accuracy-c021f4f33a61)
