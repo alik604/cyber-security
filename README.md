@@ -7,12 +7,12 @@
 
   * KDD cup ‘99
   * NSL-DKK (corrected dataset based off KDD cup ‘99’)
+   + [Affects of Dimensionality Reduction](https://github.com/alik604/dimensionality-reduction-overview) 
+   + [Blog post](https://medium.com/@alik604/dimensionality-reduction-effects-on-model-accuracy-c021f4f33a61)
   * UNSW_NB15 
 
 * Anomaly Detection (Finance)
-
-* > This might be be ‘Cyber Security’, but it is Time Series Anomaly Detection 
-
+> > This might not be ‘Cyber Security’, but it is _Time Series Anomaly Detection_ 
   - SPX 500 - pointing oddities from the past  
 
 * Utilities 
