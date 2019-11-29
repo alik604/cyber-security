@@ -29,14 +29,15 @@
 
 
 ## Related projects
-
-1. [myPybackdoor](https://github.com/alik604/myPybackdoor)
+1. [CMPT 318: Cyber Security](https://github.com/alik604/Classes/tree/master/CMPT318)
+    - [Presenation on Anomaly Detection](https://github.com/alik604/Classes/blob/master/CMPT318/CMPT_318_Presentation.pdf) 
+2. [myPybackdoor](https://github.com/alik604/myPybackdoor)
     - Navigrate Directories 
     - Download, Create, and Delete Files
     - Custom CMD command
     - Get wifi Password list
-2. [chromePasswordThieve](https://github.com/alik604/chromePasswordThieve)
+3. [chromePasswordThieve](https://github.com/alik604/chromePasswordThieve)
     - Grab passwords saved in chrome and email them out 
     - [Blog post](https://alik604.github.io/chromePasswordThieve/index.html)
-3. [bandwidth-hog](https://github.com/alik604/bandwidth-hog)
+4. [bandwidth-hog](https://github.com/alik604/bandwidth-hog)
     - Download a file many times, but do not save the data. Useful for stressing out a network... possibly your own
