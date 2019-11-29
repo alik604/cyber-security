@@ -1,5 +1,5 @@
 # Cyber Security
-> Cyber Security related learnings 
+> Cyber Security related self-learnings. _CMPT 318: Cyber Security_ can be found [Here](https://github.com/alik604/Classes/tree/master/CMPT318)
 
 ## Projects Here 
 
