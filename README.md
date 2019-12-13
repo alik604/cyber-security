@@ -34,7 +34,7 @@
 2. [myPybackdoor](https://github.com/alik604/myPybackdoor)
     - Navigrate Directories 
     - Download, Create, and Delete Files
-    - Custom CMD command
+    - Execute custom CMD commands
     - Get wifi Password list
 3. [chromePasswordThieve](https://github.com/alik604/chromePasswordThieve)
     - Grab passwords saved in chrome and email them out 
