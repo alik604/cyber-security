@@ -41,3 +41,7 @@
     - [Blog post](https://alik604.github.io/chromePasswordThieve/index.html)
 4. [bandwidth-hog](https://github.com/alik604/bandwidth-hog)
     - Download a file many times, but do not save the data. Useful for stressing out a network... possibly your own
+5. [Rainbow table of serval hashing algorithm](https://github.com/alik604/Rainbow-table-of-serval-hashing-algorithm)
+    - A simple hash lookup table, easily expandable to fit your needs
+    
+    
