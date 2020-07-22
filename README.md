@@ -21,12 +21,12 @@
       + SPX 500 - pointing out oddities from the past
         + Some argue the stock market is a random signel, which tends to have a positive trent in the *long run*. So, I tried Anomaly Detection on it   
 * Utilities 
-  * Dos script
-  * File (de)Encrption - boilerplate code for my latter use 
-  * Simple keylogger 
+  * [Rainbow Table of several Hashing Algorithms](https://github.com/alik604/cyber-security/tree/master/Utilities/Rainbow-table-of-serval-hashing-algorithms) - A simple hash lookup table 
+  * [Bandwidth Hog](https://github.com/alik604/cyber-security/tree/master/Utilities/bandwidth-hog) - Download a file many times, but do not save the data. Useful for stressing out a network... possibly your own
+  * File (de)Encrption - boilerplate code for my latter use  
   * unExpectedProcessChecker - outputs the mutually exclusive set of processes, given set A, which is hardcoded, and set B, which is from the windows environment being run on
-
-
+  * Simple keylogger
+  * Dos script
 
 ## Related projects
 1. [CMPT 318: Cyber Security](https://github.com/alik604/Classes/tree/master/CMPT318)
