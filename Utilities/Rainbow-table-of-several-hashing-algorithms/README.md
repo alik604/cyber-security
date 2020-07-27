@@ -11,7 +11,7 @@ I have elected to not distrubuted the table, as the compressed file is still > 3
 | passwords |	MD5 | MD5 of MD5 |	sha1 |	sha224 |	sha256 |	sha384 |	sha512 |	sha512 of sha512 |	sha3_224 |	sha3_512 |	sha3_256 |	NTLM - not salted by username|
 | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 
-![screensoht](screensoht.JPG)
+![screenshot](screensoht.JPG)
 
 
 
