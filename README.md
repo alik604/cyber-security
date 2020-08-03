@@ -3,7 +3,7 @@
 
 ## Projects Here 
 
-* Anomaly Detection (Network Intrusion Detection) 
+* (Network) Intrusion Detection 
 
   * KDD cup ‘99
       + [100% Accuracy](https://github.com/alik604/cyber-security/blob/master/anomalyDetection/KDD%20cup%20'99/kddcup_99_100accAchieved.ipynb) 
@@ -16,17 +16,17 @@
     + [92% Accuracy](https://github.com/alik604/cyber-security/blob/master/anomalyDetection/UNSW_NB15.ipynb)
       + 91% Accuracy with **feedforward nerual network**,92% with **Ensemble** (non nerual network techniques 'voting') 
       + [attempt at autoencoder of amonaly detection](https://colab.research.google.com/drive/15L29IKGf-7JEvcSIC4FeOEcps5_Jn8hD) 
-
-  * Anomaly Detection (Finance)
+* Anomaly Detection 
+  * Finance S&P 500
       + SPX 500 - pointing out oddities from the past
         + Some argue the stock market is a random signel, which tends to have a positive trent in the *long run*. So, I tried Anomaly Detection on it   
 * Utilities 
-  * Dos script
-  * File (de)Encrption - boilerplate code for my latter use 
-  * Simple keylogger 
+  * [Rainbow Table of several Hashing Algorithms](https://github.com/alik604/cyber-security/tree/master/Utilities/Rainbow-table-of-serval-hashing-algorithms) - A simple hash lookup table 
+  * [Bandwidth Hog](https://github.com/alik604/cyber-security/tree/master/Utilities/bandwidth-hog) - Download a file many times, but do not save the data. Useful for stressing out a network... possibly your own
+  * File (de)Encrption - boilerplate code for my latter use  
   * unExpectedProcessChecker - outputs the mutually exclusive set of processes, given set A, which is hardcoded, and set B, which is from the windows environment being run on
-
-
+  * Simple keylogger
+  * Dos script
 
 ## Related projects
 1. [CMPT 318: Cyber Security](https://github.com/alik604/Classes/tree/master/CMPT318)
