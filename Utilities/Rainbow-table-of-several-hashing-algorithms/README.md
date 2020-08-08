@@ -24,21 +24,20 @@ To get a local copy up and running follow these simple steps.
 Code running on a [Colab notebook](https://drive.google.com/file/d/1mJ9zukqncci5aexTsJYaePzr_REB3MGG/view?usp=sharing) takes about 3 mins on a GPU instance (the CPU is faster than that of the CPU instance). Output is: `rainbow_table.csv`, which is 833mb 
 
 1. Clone the repo
+
 ```sh
 git clone https://github.com/alik604/This_repo.git
 ```
+
 2. Open notebook
+
 ```sh
 jupyter notebook
 ```
 
-
-
 ## Roadmap
 
 See the [open issues](https://github.com/alik604/repo/issues) for a list of proposed features (and known issues).
-
-
 
 ## Contributing
 
@@ -49,7 +48,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 
 
 ## License
