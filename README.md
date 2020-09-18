@@ -14,8 +14,8 @@
     * [Effects of Dimensionality Reduction](https://github.com/alik604/dimensionality-reduction-overview) 
     * [Blog post](https://medium.com/@alik604/dimensionality-reduction-effects-on-model-accuracy-c021f4f33a61)
   * UNSW_NB15
-    * [92% Accuracy](https://github.com/alik604/cyber-security/blob/master/Intrusion-Detection/UNSW_NB15.ipynb)
-      * 91% Accuracy with a **feedforward neural network**, 92% with **Ensemble** (non neural network techniques 'voting')
+    * [94.8% Accuracy](https://github.com/alik604/cyber-security/blob/master/Intrusion-Detection/UNSW_NB15.ipynb)
+      * 91% Accuracy with a **feedforward neural network**, 94.8% with **Ensemble** (of non neural network techniques, 'voting')
       * [attempt at autoencoder of anomaly detection](https://colab.research.google.com/drive/15L29IKGf-7JEvcSIC4FeOEcps5_Jn8hD)
 * Anomaly Detection
   * Finance S&P 500
