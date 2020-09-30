@@ -16,7 +16,8 @@
   * UNSW_NB15
     * [94.8% Accuracy](https://github.com/alik604/cyber-security/blob/master/Intrusion-Detection/UNSW_NB15.ipynb)
       * 91% Accuracy with a **feedforward neural network**, 94.8% with **Ensemble** (of non neural network techniques, 'voting')
-      * [attempt at autoencoder of anomaly detection](https://colab.research.google.com/drive/15L29IKGf-7JEvcSIC4FeOEcps5_Jn8hD)
+      * Autoencoder of Anomaly Detection
+      * Upsupervised with [PYOD](https://github.com/yzhao062/pyod), which is a "A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)"
 * Anomaly Detection
   * Finance S&P 500
     * SPX 500* pointing out oddities from the past
