@@ -7,3 +7,4 @@
 
 + `Intrusion_Detection.ipynb`: Multiclass Classification
 + `kddcup_99_100accAchieved.ipynb`: Singleclass Classification
++ `KDD_autoencoder.ipynb`: Ignore this, instead look at `UNSW_NB15 - PyTorch Categorical Variational AutoEncoder with Gumbel Softmax.ipynb` & `UNSW_NB15 - PyTorch MLP and autoEncoder.ipynb`, it is a much better example. 
