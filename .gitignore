@@ -131,3 +131,10 @@ dmypy.json
 .pyre/
 auto-py-to-exe/
 *.csv
+Intrusion-Detection/catboost_info/tmp/cat_feature_index.c1e96c01-6d4368d6-74159238-a7465e16.tmp
+Intrusion-Detection/catboost_info/time_left.tsv
+Intrusion-Detection/catboost_info/test_error.tsv
+Intrusion-Detection/catboost_info/test/events.out.tfevents
+Intrusion-Detection/catboost_info/learn_error.tsv
+Intrusion-Detection/catboost_info/learn/events.out.tfevents
+Intrusion-Detection/catboost_info/catboost_training.json
