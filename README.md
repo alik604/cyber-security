@@ -42,9 +42,9 @@
    * Download, Create, and Delete Files
    * Execute custom CMD commands
    * Get wifi Password list
-3. [chromePasswordThieve](https://github.com/alik604/chromePasswordThieve)
+3. [chromePasswordThief](https://github.com/alik604/chrome-password-thief)
    * Grab passwords saved in chrome and email them out
-   * [Blog post](https://alik604.github.io/chromePasswordThieve/index.html)
+   * [Blog post](https://alik604.github.io/chrome-password-thief/index.html)
 4. [bandwidth-hog](https://github.com/alik604/bandwidth-hog)
    * Download a file many times, but do not save the data. Useful for stressing out a network... possibly your own
 5. [Rainbow table of serval hashing algorithm](https://github.com/alik604/Rainbow-table-of-serval-hashing-algorithm)
