@@ -24,9 +24,12 @@
 
 ### Utilities
   * [Rainbow Table of several Hashing Algorithms](https://github.com/alik604/cyber-security/tree/master/Utilities/Rainbow-table-of-serval-hashing-algorithms)* A simple hash lookup table
-  * [Bandwidth Hog](https://github.com/alik604/cyber-security/tree/master/Utilities/bandwidth-hog)* Download a file many times, but do not save the data. Useful for stressing out a network... possibly your own
-  * File (de)Encryption* boilerplate code for my latter use  
-  * unExpectedProcessChecker* outputs the mutually exclusive set of processes, given set A, which is hardcoded, and set B, which is from the windows environment being run on
+  * [Bandwidth Hog](https://github.com/alik604/cyber-security/tree/master/Utilities/bandwidth-hog)
+    * Download a file many times, but do not save the data. Useful for stressing out a network... possibly your own
+  * File (de)Encryption
+    * boilerplate code for my latter use  
+  * unExpectedProcessChecker
+    * outputs the mutually exclusive set of processes, given set A, which is hardcoded, and set B, which is from the windows environment being run on
   * Simple keylogger
   * Dos script
 
