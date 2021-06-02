@@ -21,7 +21,7 @@
 * Anomaly Detection
   * Finance S&P 500
     * SPX 500* pointing out oddities from the past
-      * Some argue the stock market is a random signal, which tends to have a positive trent in the *long run*. So, I tried Anomaly Detection on it
+      * Some argue the stock market is a random signal, which tends to have a positive trend in the *long run*. So, I tried Anomaly Detection on it. Perhaps it's an *extream* **bull run** and **bear run** detector
 * Utilities
   * [Rainbow Table of several Hashing Algorithms](https://github.com/alik604/cyber-security/tree/master/Utilities/Rainbow-table-of-serval-hashing-algorithms)* A simple hash lookup table
   * [Bandwidth Hog](https://github.com/alik604/cyber-security/tree/master/Utilities/bandwidth-hog)* Download a file many times, but do not save the data. Useful for stressing out a network... possibly your own
