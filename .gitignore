@@ -1,3 +1,9 @@
+# kitty litter
+Intrusion-Detection/catboost_info
+
+Intrusion-Detection/KDD cup '99kdd/cup.data.csv
+Intrusion-Detection/.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
