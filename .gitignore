@@ -144,3 +144,4 @@ Intrusion-Detection/catboost_info/test/events.out.tfevents
 Intrusion-Detection/catboost_info/learn_error.tsv
 Intrusion-Detection/catboost_info/learn/events.out.tfevents
 Intrusion-Detection/catboost_info/catboost_training.json
+/Utilities/.vscode
